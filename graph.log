@@ -1,0 +1,32 @@
+* 39a23d1 Agregando 2 parrafos
+*   a51fe8b Merge branch 'main' of https://github.com/Tucno0/practica-git
+|\  
+| *   c145f23 Merge branch 'main' of https://github.com/Tucno0/practica-git
+| |\  
+* | | 4f3c012 resolviendo conflicto
+* | |   77e2eee agregansod las fechas a alas estaciones del año
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * 481357c agregando las estaciones del año
+* | 1ebabe3 agregansod las fechas a alas estaciones del año
+|/  
+* 014628a Resolviendo conflicto merger main/html en eindex.html
+*   366916b Resolviendo conflicto merger main/html en eindex.html
+|\  
+| * 2f0f33c agreganso index.js  a index.html
+* | 32181de agreganso estiles.css a index.html
+* |   6aca5bf Merge branch 'js'
+|\ \  
+| * | 36a9b30 creando index.js
+* | | bb2a66c creando estilos.css
+| |/  
+|/|   
+* | 9640b4a Creando index.html
+|/  
+* 3ce2603 ignorando los archivos .exe
+* 992533c Creando licencia del reppositorio
+* 60ef6d4 Agranago mas contenido al README
+* 4fae4db segundo commit
+* df9cf4b primer commit

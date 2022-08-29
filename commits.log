@@ -1,0 +1,124 @@
+commit 39a23d105f5335a6b7e97fd0e6a383208c0bee0b
+Author: Tucno0 <yantucnoperez@gmail.com>
+Date:   Mon Aug 29 11:06:56 2022 -0500
+
+    Agregando 2 parrafos
+
+commit a51fe8b6967bbaca7805ec60d7d1aaa432919d50
+Merge: 4f3c012 c145f23
+Author: Tucno0 <yantucnoperez@gmail.com>
+Date:   Mon Aug 29 00:43:14 2022 -0500
+
+    Merge branch 'main' of https://github.com/Tucno0/practica-git
+
+commit 4f3c01278d3eb385d2223f8b21693aec846919bc
+Author: Tucno0 <yantucnoperez@gmail.com>
+Date:   Mon Aug 29 00:42:05 2022 -0500
+
+    resolviendo conflicto
+
+commit 77e2eee682876cb58f570b03f594531b8f529922
+Merge: 1ebabe3 481357c
+Author: Tucno0 <yantucnoperez@gmail.com>
+Date:   Mon Aug 29 00:37:48 2022 -0500
+
+    agregansod las fechas a alas estaciones del año
+
+commit c145f23efe41a9af4ca9b12f2576c17eecab8109
+Merge: 1ebabe3 481357c
+Author: Tucno0 <yantucnoperez@gmail.com>
+Date:   Mon Aug 29 00:37:48 2022 -0500
+
+    Merge branch 'main' of https://github.com/Tucno0/practica-git
+
+commit 1ebabe3cd4cf0635f3b7d77dcd85390b1b771faa
+Author: Tucno0 <yantucnoperez@gmail.com>
+Date:   Mon Aug 29 00:31:28 2022 -0500
+
+    agregansod las fechas a alas estaciones del año
+
+commit 481357c64556543ba97667f9d22816319374a14c
+Author: Tucno0 <yantucnoperez@gmail.com>
+Date:   Mon Aug 29 00:31:28 2022 -0500
+
+    agregando las estaciones del año
+
+commit 014628aef04561518ddbc60164b127fcc800f0e0
+Author: Tucno0 <yantucnoperez@gmail.com>
+Date:   Sun Aug 28 23:49:52 2022 -0500
+
+    Resolviendo conflicto merger main/html en eindex.html
+
+commit 366916b7ef1c36fe6e4bc0cbbeaecc3b88c75d24
+Merge: 32181de 2f0f33c
+Author: Tucno0 <yantucnoperez@gmail.com>
+Date:   Sun Aug 28 23:49:21 2022 -0500
+
+    Resolviendo conflicto merger main/html en eindex.html
+
+commit 2f0f33c289b5bac0d72aab41c99de5540f790aea
+Author: Tucno0 <yantucnoperez@gmail.com>
+Date:   Sun Aug 28 23:37:51 2022 -0500
+
+    agreganso index.js  a index.html
+
+commit 32181de51ef6f4be75320ccd3ad0295cea723797
+Author: Tucno0 <yantucnoperez@gmail.com>
+Date:   Sun Aug 28 23:35:14 2022 -0500
+
+    agreganso estiles.css a index.html
+
+commit 6aca5bfe2ea26a602512bcb0f524bf6910370f3d
+Merge: bb2a66c 36a9b30
+Author: Tucno0 <yantucnoperez@gmail.com>
+Date:   Sun Aug 28 23:25:10 2022 -0500
+
+    Merge branch 'js'
+
+commit 36a9b307932d85852c83eab7d7387f26d4ed5260
+Author: Tucno0 <yantucnoperez@gmail.com>
+Date:   Sun Aug 28 23:18:09 2022 -0500
+
+    creando index.js
+
+commit bb2a66c0d1d6926e407b70a4994c9232f9a4cdaf
+Author: Tucno0 <yantucnoperez@gmail.com>
+Date:   Sun Aug 28 23:14:11 2022 -0500
+
+    creando estilos.css
+
+commit 9640b4a428e8c70eec05b562125d4d7ec2d16b0f
+Author: Tucno0 <yantucnoperez@gmail.com>
+Date:   Sun Aug 28 23:10:08 2022 -0500
+
+    Creando index.html
+
+commit 3ce2603df043a0ee975b29648371351261807f31
+Author: Tucno0 <yantucnoperez@gmail.com>
+Date:   Sun Aug 28 22:44:53 2022 -0500
+
+    ignorando los archivos .exe
+
+commit 992533c53eba44e2991ccb091a9d5417bd6fdd3e
+Author: Jhampier <73794351+Tucno0@users.noreply.github.com>
+Date:   Sun Aug 28 00:37:01 2022 -0500
+
+    Creando licencia del reppositorio
+
+commit 60ef6d4f5f2fcc5f7d3ccede040f0dbcfb3cb197
+Author: Tucno0 <yantucnoperez@gmail.com>
+Date:   Sun Aug 28 00:34:07 2022 -0500
+
+    Agranago mas contenido al README
+
+commit 4fae4db7af73a7a9cce5bc98d4ed4ea5a29b31ac
+Author: Tucno0 <yantucnoperez@gmail.com>
+Date:   Sun Aug 28 00:25:18 2022 -0500
+
+    segundo commit
+
+commit df9cf4bff7b6fb93dc350916e8d904769ea77a89
+Author: Tucno0 <yantucnoperez@gmail.com>
+Date:   Sun Aug 28 00:23:52 2022 -0500
+
+    primer commit
