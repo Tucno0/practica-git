@@ -4,4 +4,4 @@ Hola a todos
 
 Agrango mas contenid oalREADME
 
-Este commit es pata oficializar nuestra version
+Este commit es pata oficializar nuestra version **1.0.0**
